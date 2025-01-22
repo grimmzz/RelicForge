@@ -1,0 +1,144 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	gun: {
+		DisplayName: Ebonshot
+		Tooltip:
+			'''
+			'It pulses with a
+			faint purple glow'
+			'''
+	}
+
+	CrimsonMusket: {
+		DisplayName: Crimson Rifle
+		Tooltip: "'Covered in blood, ew.'"
+	}
+
+	ExampleFlail: {
+		DisplayName: Example Flail
+		Tooltip: ""
+	}
+
+	FroYo: {
+		DisplayName: Fro-Yo
+		Tooltip:
+			'''
+			'Wonder what
+			flavor it is?'
+			'''
+	}
+
+	JungleSpear: {
+		DisplayName: Jungle Spear
+		Tooltip:
+			'''
+			Inflicts poison
+			'You'd think a leaf
+			would break on the first
+			hit but i guess not'
+			'''
+	}
+
+	RecklessAmulet: {
+		DisplayName: Strange Amulet
+		Tooltip:
+			'''
+			Doubles all types of damage
+			but also halves the players maximum health
+			'''
+	}
+
+	ChaliceOfDesolation: {
+		DisplayName: Amulet of Desolation
+		Tooltip:
+			'''
+			Quadruples all type of damage
+			but also reduces the players maximum health
+			to a quarter of what it once was.
+			'Are you sure you know what you're doing?'
+			'''
+	}
+
+	RegenerationBooster: {
+		DisplayName: Crystalized Regeneration Potion
+		Tooltip:
+			'''
+			Permanently increases
+			life regeneration by 10%
+			'It shimmers with
+			a beautiful pastel palette'
+			'''
+	}
+
+	ReinforcedShield: {
+		DisplayName: Reinforced Shield
+		Tooltip:
+			'''
+			3 Defense
+			Reduces damage
+			taken by 5%
+			'Sturdy!'
+			'''
+	}
+
+	Revolver: {
+		DisplayName: Revolver
+		Tooltip: ""
+	}
+
+	IronBullet: {
+		DisplayName: Iron Bullet
+		Tooltip: ""
+	}
+
+	DustDevil: {
+		DisplayName: Dust Devil
+		Tooltip:
+			'''
+			Shoots homing dust
+			storms at enemies
+			'''
+	}
+
+	TumbleWeed: {
+		DisplayName: Tumble Weed
+		Tooltip: ""
+	}
+
+	SlowEnduranceAccessory: {
+		DisplayName: Slow Endurance Accessory
+		Tooltip: ""
+	}
+
+	LobsterGun: {
+		DisplayName: Shrimp Gun
+		Tooltip:
+			'''
+			Converts bullets into
+			exploding air bubbles
+			'It's as shrimple as that'
+			'''
+	}
+
+	JungleSporeStaff: {
+		DisplayName: Leaf Binder
+		Tooltip:
+			'''
+			Shoots out exploding
+			jungle spores
+			'''
+	}
+}
+
+Projectiles: {
+	GunBulletProjectile.DisplayName: Gun Bullet Projectile
+	ExampleFlailProjectile.DisplayName: Example Flail Projectile
+	FroYoProjectile.DisplayName: Fro Yo Projectile
+	JungleSpearProjectile.DisplayName: Jungle Spear Projectile
+	IronBulletProjectile.DisplayName: Iron Bullet Projectile
+	DustDevilProjectile.DisplayName: Dust Devil Projectile
+	TumbleWeedProjectile.DisplayName: Tumble Weed Projectile
+	LobsterShot.DisplayName: Lobster Shot
+	JungleSporeProjectile.DisplayName: Jungle Spore Projectile
+}

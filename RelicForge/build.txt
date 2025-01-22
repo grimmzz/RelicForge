@@ -1,0 +1,3 @@
+displayName = Relic Forge
+author = grim
+version = 0.1
